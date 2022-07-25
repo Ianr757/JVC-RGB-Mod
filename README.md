@@ -1,0 +1,3 @@
+# JVC-RGB-Mod
+RGB Modding a CRT: JVC AV-27120 / AV-27220
+https://docs.google.com/document/d/e/2PACX-1vStrUPVAGBVrpC66RSjERuTE3kfigeCj293CSDN2Cw9OOXBX0HVINQnwPbK1leJ2LMvhu9B0d8vsvOE/pub?fbclid=IwAR34jMaLCcNXWCbIbhjPIQhnVz0Q0E4YMgour8UOewjHMuf27H8I8OWZLwU
